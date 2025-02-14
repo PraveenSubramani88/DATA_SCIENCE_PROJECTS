@@ -55,7 +55,8 @@ This repository is my playground to:
 I’d love to collaborate, learn, and share ideas.  
 - 💼 **LinkedIn:** [Praveen Subramani](https://www.linkedin.com/in/praveensubramani88/)
 - 🐦 **X (Twitter):** [Praveen Subramani](https://x.com/PraveenS960572)
-- 💻 **GitHub:** [Your GitHub](#)  
+- 💻 **GitHub:** [Praveen Subramani](https://github.com/PraveenSubramani88)
+ 
 
 ---
 
