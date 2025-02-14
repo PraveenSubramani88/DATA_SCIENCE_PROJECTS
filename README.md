@@ -53,8 +53,8 @@ This repository is my playground to:
 
 ## 🤝 Connect with Me  
 I’d love to collaborate, learn, and share ideas.  
-- 💼 **LinkedIn:** [Your LinkedIn](#)  
-- 🐦 **X (Twitter):** [Your Twitter](#)  
+- 💼 **LinkedIn:** [Praveen Subramani](https://www.linkedin.com/in/praveensubramani88/)
+- 🐦 **X (Twitter):** [Praveen Subramani](https://x.com/PraveenS960572)
 - 💻 **GitHub:** [Your GitHub](#)  
 
 ---
