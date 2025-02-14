@@ -21,8 +21,7 @@ This repository showcases projects where I explore **AI, LLMs, automation, and r
   - **Skills:** AI agents, Web automation, API integration  
 
 - **Special Thanks:**  
-  - 🦊 [Gregor Zunic](https://x.com/gregpr07) & [Magnus Müller](https://x.com/mamagnus00) for **Browser-Use**  
-  - 🌐 [Alex (warmshao)](https://x.com/warmshao) for **Web-UI**  
+  - 🦊 [Gregor Zunic](https://x.com/gregpr07) & [Magnus Müller](https://x.com/mamagnus00) for **Browser-Use**
 
 ---
 
