@@ -68,7 +68,7 @@ browser = Browser()
 
 agent = Agent(
    task=task,
-    llm=    ChatGoogleGenerativeAI(model='gemini-2.0-flash-exp', api_key='AIzaSyBOKlrpzUUIUZHwjAk1tf1wXF_nBhNuS28'),
+    llm=    ChatGoogleGenerativeAI(model='gemini-2.0-flash-exp', api_key='your_api_key'),
     browser=browser,
     )
 
