@@ -16,14 +16,6 @@
 
 ---
 
-## 💡 Why This Repository?  
-This repository is my playground to:  
-- 💡 Experiment with **AI agents and automation tools**.  
-- 📈 Apply and showcase **data science concepts** in real-world scenarios.  
-- 🚀 Continuously **learn and share** with the community.  
-
----
-
 ## 🛠️ Tech Stack I Use  
 - **Programming:** Python 🐍  
 - **Frameworks & Libraries:** LangChain, Selenium, Pandas, Scikit-learn  
