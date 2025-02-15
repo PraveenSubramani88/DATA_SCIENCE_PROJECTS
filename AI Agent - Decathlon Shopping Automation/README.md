@@ -9,7 +9,15 @@
 - **What I Used & Learned:**  
   - **Frameworks:** Browser-Use, Web-UI  
   - **LLMs:** OpenAI, DeepSeek, Gemini  
-  - **Skills:** AI agents, Web automation, API integration  
+  - **Skills:** AI agents, Web automation, API integration
+
+- **How to Set Up:**  
+  - **Set Up Browser-Use:** [Browser-Use Repository](https://github.com/browser-use/browser-use)  
+
+  ```bash
+  cd c:/YOUR_FOLDER_PATH/browser-use/examples/use-cases/
+  uv venv --python 3.11
+  python shopping_decathlon.py
 
 - **Special Thanks:**  
   - 🦊 [Gregor Zunic](https://x.com/gregpr07) & [Magnus Müller](https://x.com/mamagnus00) for **Browser-Use**
