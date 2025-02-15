@@ -8,23 +8,6 @@ This repository showcases projects where I explore **AI, LLMs, automation, and r
 ## 📂 Projects Included  
 
 ### 1️⃣ 🛒 AI Shopping Agent – Decathlon Automation  
-- **Description:**  
-  Built an AI agent that automates shopping on [Decathlon](https://www.decathlon.in/). The agent searches for specific swimming gear, selects the correct sizes, and adds them to the cart—all automated using LLM-powered web interactions.  
-
-- **Why I Built It:**  
-  - To explore AI agent frameworks and their practical applications.  
-  - As a swimmer for 5 years, it was exciting to automate the shopping for my favorite gear! 🏊  
-
-- **What I Used & Learned:**  
-  - **Frameworks:** Browser-Use, Web-UI  
-  - **LLMs:** OpenAI, DeepSeek, Gemini  
-  - **Skills:** AI agents, Web automation, API integration  
-
-- **Special Thanks:**  
-  - 🦊 [Gregor Zunic](https://x.com/gregpr07) & [Magnus Müller](https://x.com/mamagnus00) for **Browser-Use**
-
----
-
 ### 🧩 More Projects Coming Soon  
 - 📊 **Data Analysis & Visualization Projects** *(Pandas, Matplotlib, Seaborn)*  
 - 🤖 **LLM-based Chatbots and Agents**  
