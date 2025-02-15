@@ -16,14 +16,6 @@
 
 ---
 
-### 🧩 More Projects Coming Soon  
-- 📊 **Data Analysis & Visualization Projects** *(Pandas, Matplotlib, Seaborn)*  
-- 🤖 **LLM-based Chatbots and Agents**  
-- 🧠 **ML Models & Predictive Analytics** *(Scikit-learn, TensorFlow)*  
-- 🚀 **More AI Automation Tools** *(LangChain, Selenium)*  
-
----
-
 ## 💡 Why This Repository?  
 This repository is my playground to:  
 - 💡 Experiment with **AI agents and automation tools**.  
