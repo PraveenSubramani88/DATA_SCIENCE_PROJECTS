@@ -6,8 +6,10 @@ This repository showcases projects where I explore **AI, LLMs, automation, and r
 ---
 
 ## 📂 Projects Included  
-
 ### 1️⃣ 🛒 AI Shopping Agent – Decathlon Automation  
+
+---
+
 ### 🧩 More Projects Coming Soon  
 - 📊 **Data Analysis & Visualization Projects** *(Pandas, Matplotlib, Seaborn)*  
 - 🤖 **LLM-based Chatbots and Agents**  
