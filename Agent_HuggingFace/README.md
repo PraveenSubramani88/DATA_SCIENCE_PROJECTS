@@ -2,7 +2,7 @@ Here's a `README.md` file that documents the environment setup process for your 
 
 ---
 
-```markdown
+
 # Agents HuggingFace Project
 
 This project uses a Python environment managed by Anaconda and installs all required dependencies using a `requirements.txt` file.
