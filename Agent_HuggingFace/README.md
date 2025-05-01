@@ -1,7 +1,6 @@
-Here's a `README.md` file that documents the environment setup process for your project, assuming the project is located at `C:\_BigDataCourses\_Projects\Agents_HuggingFace`.
+Here's your updated `README.md` file with the step for installing **Jupyter** using `conda install jupyter` included under setup instructions:
 
 ---
-
 
 # Agents HuggingFace Project
 
@@ -32,7 +31,13 @@ conda create --name agent_env python=3.10
 conda activate agent_env
 ```
 
-### 4. Install Required Python Packages
+### 4. Install Jupyter Notebook
+
+```bash
+conda install jupyter
+```
+
+### 5. Install Required Python Packages
 
 Make sure the `requirements.txt` file is located at:
 ```
@@ -76,6 +81,7 @@ conda deactivate
 ## 📌 Notes
 
 - All packages will be installed via `pip`, even though you're using `conda`.
+- `Jupyter` is installed via `conda` for better compatibility and performance.
 - If you run into issues with conflicting dependencies, consider creating a `conda` environment file (`.yml`) instead.
 
 ---
@@ -84,5 +90,3 @@ Happy coding! 🚀
 ```
 
 ---
-
-Let me know if you want to include sample code, environment export commands, or project description in the README.
