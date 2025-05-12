@@ -68,11 +68,11 @@ pip install tensorflow numpy
 ### 🖼️ Sample Output
 
 ```
-Filename                       Prediction      Decoded Label        
-----------------------------------------------------------------------
-dog1.jpg                       Dog             golden_retriever (0.89)
-cat2.png                       Cat             Egyptian_cat (0.82)
-unknown.jpg                    Uncertain (fox) red_fox (0.45)
+Filename                       Prediction              
+-----------------------------------------------
+d1.jpg                       Dog             
+c2.png                       Cat             
+d5.jpg                       Uncertain (Labrador) 
 ```
 
 ---
