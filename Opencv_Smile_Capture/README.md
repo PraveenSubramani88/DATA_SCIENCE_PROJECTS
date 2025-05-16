@@ -1,7 +1,3 @@
-Got it! Here's the plain text version of the README content without markdown formatting:
-
----
-
 OpenCV Smile Detection
 
 A simple Jupyter notebook that uses OpenCV to detect smiles in real-time via webcam. When a smile is detected, it automatically captures and saves a photo.
